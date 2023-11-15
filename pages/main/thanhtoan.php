@@ -1,0 +1,11 @@
+<?php
+    session_start();
+    if(isset($_SESSION['dangnhap']))
+    {
+        header('location:../../index.php?quanly=camon');
+    }
+    else
+    {
+        header('location:../../user/loginuser.php?status=false');
+    }
+?>

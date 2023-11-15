@@ -1,0 +1,21 @@
+/* * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.admin-menu {
+    height: 48px;
+    list-style-type: none;
+}
+
+.admin-menu li {
+    display: inline-block;
+}
+
+.admin-menu li a {
+    display: inline-block;
+    text-decoration: none;
+    line-height: 48px;
+    padding: 0 25px;
+} */
